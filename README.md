@@ -13,4 +13,4 @@ This application mainly focused on security for the people. first of all the use
 
 ![alt text](https://github.com/sutheesh/TrackMyBuddy/blob/master/ScreenShots/TMB_1.jpg)
 ![alt text](https://github.com/sutheesh/TrackMyBuddy/blob/master/ScreenShots/TMB_3.jpg)
-![alt text](https://github.com/sutheesh/TrackMyBuddy/blob/master/ScreenShots/TMB_4.jpg)
+![alt text](https://github.com/sutheesh/TrackMyBuddy/blob/master/ScreenShots/TMB_9.jpg)
